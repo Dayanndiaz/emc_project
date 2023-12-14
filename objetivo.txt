@@ -1,0 +1,3 @@
+Desarrollo de un software de FEM para la
+resolución de estructuras sólidas 2D, en
+tensión plana
